@@ -1,0 +1,2 @@
+ls -tmp
+#list files by modified, add a comma between each one and add a slash if its a folder
